@@ -1,0 +1,14 @@
+E:\FFAPI2\FFAPI2\obj\Debug\netcoreapp2.0\FFAPI2.csprojAssemblyReference.cache
+E:\FFAPI2\FFAPI2\obj\Debug\netcoreapp2.0\FFAPI2.csproj.CoreCompileInputs.cache
+E:\FFAPI2\FFAPI2\obj\Debug\netcoreapp2.0\FFAPI2.AssemblyInfoInputs.cache
+E:\FFAPI2\FFAPI2\obj\Debug\netcoreapp2.0\FFAPI2.AssemblyInfo.cs
+E:\FFAPI2\FFAPI2\bin\Debug\netcoreapp2.0\FFAPI2.deps.json
+E:\FFAPI2\FFAPI2\bin\Debug\netcoreapp2.0\FFAPI2.runtimeconfig.json
+E:\FFAPI2\FFAPI2\bin\Debug\netcoreapp2.0\FFAPI2.runtimeconfig.dev.json
+E:\FFAPI2\FFAPI2\bin\Debug\netcoreapp2.0\FFAPI2.dll
+E:\FFAPI2\FFAPI2\bin\Debug\netcoreapp2.0\FFAPI2.pdb
+E:\FFAPI2\FFAPI2\bin\Debug\netcoreapp2.0\Utilities.dll
+E:\FFAPI2\FFAPI2\bin\Debug\netcoreapp2.0\Utilities.pdb
+E:\FFAPI2\FFAPI2\obj\Debug\netcoreapp2.0\FFAPI2.csproj.CopyComplete
+E:\FFAPI2\FFAPI2\obj\Debug\netcoreapp2.0\FFAPI2.dll
+E:\FFAPI2\FFAPI2\obj\Debug\netcoreapp2.0\FFAPI2.pdb

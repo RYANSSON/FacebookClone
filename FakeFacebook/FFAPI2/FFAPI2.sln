@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFAPI2", "FFAPI2\FFAPI2.csproj", "{BA03683C-0643-4422-8E77-71AE4B8E928E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{940036F4-AE78-4402-9603-EA30365115B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA03683C-0643-4422-8E77-71AE4B8E928E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA03683C-0643-4422-8E77-71AE4B8E928E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA03683C-0643-4422-8E77-71AE4B8E928E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA03683C-0643-4422-8E77-71AE4B8E928E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{940036F4-AE78-4402-9603-EA30365115B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940036F4-AE78-4402-9603-EA30365115B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940036F4-AE78-4402-9603-EA30365115B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940036F4-AE78-4402-9603-EA30365115B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AD203DE-D501-4092-BCBB-C01711F7BA01}
+	EndGlobalSection
+EndGlobal

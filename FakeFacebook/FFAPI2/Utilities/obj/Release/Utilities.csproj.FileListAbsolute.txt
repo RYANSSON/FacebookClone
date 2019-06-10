@@ -1,0 +1,5 @@
+E:\FFAPI2\Utilities\bin\Release\Utilities.dll
+E:\FFAPI2\Utilities\bin\Release\Utilities.pdb
+E:\FFAPI2\Utilities\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+E:\FFAPI2\Utilities\obj\Release\Utilities.dll
+E:\FFAPI2\Utilities\obj\Release\Utilities.pdb

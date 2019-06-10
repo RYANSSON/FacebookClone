@@ -1,0 +1,12 @@
+C:\Users\tuf97565\Desktop\FakeFacebook\Utilities\bin\Release\Utilities.dll
+C:\Users\tuf97565\Desktop\FakeFacebook\Utilities\bin\Release\Utilities.pdb
+C:\Users\tuf97565\Desktop\FakeFacebook\Utilities\obj\Release\Utilities.csprojAssemblyReference.cache
+C:\Users\tuf97565\Desktop\FakeFacebook\Utilities\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\tuf97565\Desktop\FakeFacebook\Utilities\obj\Release\Utilities.dll
+C:\Users\tuf97565\Desktop\FakeFacebook\Utilities\obj\Release\Utilities.pdb
+E:\FakeFacebook\FakeFacebook\Utilities\bin\Release\Utilities.dll
+E:\FakeFacebook\FakeFacebook\Utilities\bin\Release\Utilities.pdb
+E:\FakeFacebook\FakeFacebook\Utilities\obj\Release\Utilities.csprojAssemblyReference.cache
+E:\FakeFacebook\FakeFacebook\Utilities\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+E:\FakeFacebook\FakeFacebook\Utilities\obj\Release\Utilities.dll
+E:\FakeFacebook\FakeFacebook\Utilities\obj\Release\Utilities.pdb

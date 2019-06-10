@@ -1,0 +1,6 @@
+E:\FFAPI2\Utilities\bin\Debug\Utilities.dll
+E:\FFAPI2\Utilities\bin\Debug\Utilities.pdb
+E:\FFAPI2\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+E:\FFAPI2\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+E:\FFAPI2\Utilities\obj\Debug\Utilities.dll
+E:\FFAPI2\Utilities\obj\Debug\Utilities.pdb
